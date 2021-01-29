@@ -24,7 +24,7 @@ li a {
   text-decoration: none;
 }
 
-/* Change the link color to #111 (black) on hover */
+
 li a:hover {
   background-color: #111;
 }
@@ -67,17 +67,6 @@ img {
     margin-right:0px;
     margin-top: 20px;  
 }
-
-/* footer{
-    background-color:blue;
-    color: black;
-    margin-top: 50%;
-    width: 100%;
-    height: 20vh;
-    display: flex;
-    justify-content: center;
-    font-size: 50px;
-} */
 .footer-basic {
     padding:300px ;
     background-color:white;
